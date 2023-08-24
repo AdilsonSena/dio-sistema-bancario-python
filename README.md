@@ -1,4 +1,4 @@
-# Dio Sistema Bancario Python 🚀 ![Alt text](bank.jpeg) ![Alt text](bank.jpg)
+# Dio Sistema Bancario Python 🚀
 
 Criando um Sistema Bancário com Python Versão 01 implementar 3 operações:
 Depósito, saque e extrato.
