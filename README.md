@@ -9,4 +9,7 @@ Depósito, saque e extrato.
 - Sacar
 - Extrato
 
+### Foram separadas as diferentes operações em funções (como , e ) para melhorar a modularização do código e 
+### utilizei uma lista para armazenar as movimentações e formatar o extrato.
+
 
