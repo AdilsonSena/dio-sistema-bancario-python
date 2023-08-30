@@ -9,11 +9,10 @@ Depósito, saque e extrato.
 - Sacar
 - Extrato
 
-Criando um Sistema Bancário com Python Versão 02 implementando novas funcionalidades:
-
 ### Foram separadas as diferentes operações em funções (como , e ) para melhorar a modularização do código e 
 ### utilizei uma lista para armazenar as movimentações e formatar o extrato.
 
+Criando um Sistema Bancário com Python Versão 02 implementando novas funcionalidades:
 Nova conta, listar contas e novo usuário.
 
 ## menu add v2 
